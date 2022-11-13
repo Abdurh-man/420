@@ -1,0 +1,7 @@
+num_particles:40
+inertia:0.5
+cognition:1
+social:60.0
+epoch_stop: 999
+solution_found: [1.02551118 1.05206657]
+fitness: 0.0006662957139492522
