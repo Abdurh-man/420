@@ -1,0 +1,906 @@
+Abdurhman Bahour,,,,,,,,0,,,,,
+Wrap:,TRUE,,,,,,,,,,,,
+K(states):,5,,,,,,,,,,,,
+Radius:,1,,,,,,,,,,,,
+Quiescence:,TRUE,,,,,,,,,,,,
+random seed:,1644449108,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,0,,,,,,,,,,,,
+Rule:,2.24E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.790921729,1.987773371,,randomness at begning ends in repeating patter,,,,,0
+1,4,3,0.872,0.846153846,1.941938719,1.987773371,,chaous,,,,,2
+2,7,3,0.728,0.769230769,2.101710266,2.075869297,,chaous,,,,,2
+3,11,3,0.704,0.692307692,2.090244863,2.038159682,,chaous,,,,,2
+4,12,3,0.696,0.615384615,2.09195795,2.038159682,,chaous,,,,,2
+5,8,3,0.576,0.538461538,2.048477214,1.987773371,,chaous,,,,,2
+6,6,3,0.424,0.461538462,1.771851588,1.88109476,,chaous,,,,,2
+7,9,3,0.344,0.384615385,1.420928522,1.546593564,,chaous,,,,,2
+8,10,3,0.296,0.307692308,1.323886377,1.352030102,,chaous,,,,,2
+9,5,3,0.152,0.230769231,0.766518891,0.991264261,,chaous,,,,,2
+10,1,3,0.128,0.153846154,0.674095106,0.773228349,,chaous,,,,,2
+11,3,3,0.048,0.076923077,0.277839574,0.391243564,,chaous,,,,,2
+12,2,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,1,,,,,,,,,,,,
+Rule:,3.23E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.986313785,2.10390991,,chaous,,,,,2
+1,11,3,0.968,0.846153846,2.074106967,2.199687795,,chaous,,,,,2
+2,9,3,0.888,0.769230769,2.249613253,2.23739741,,chaous,,,,,2
+3,8,3,0.768,0.692307692,2.287090324,2.199687795,,chaous,,,,,2
+4,1,3,0.744,0.615384615,2.282218179,2.133937566,,chaous,,,,,2
+5,2,3,0.696,0.538461538,2.266717662,2.045841641,,chaous,,,,,2
+6,7,3,0.552,0.461538462,1.906077603,1.88109476,,chaous,,,,,2
+7,6,3,0.4,0.384615385,1.575174432,1.700439718,,chaous,,,,,2
+8,12,3,0.392,0.307692308,1.513725718,1.352030102,,chaous,,,,,2
+9,5,3,0.248,0.230769231,0.98388403,0.991264261,,chaous,,,,,2
+10,10,3,0.2,0.153846154,0.721928095,0.619382195,,chaous,,,,,2
+11,4,3,0.08,0.076923077,0.40217919,0.391243564,,chaous,,,,,2
+12,3,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,2,,,,,,,,,,,,
+Rule:,3.22E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.569727903,2.038159682,,chaous,,,,,2
+1,8,3,0.872,0.846153846,1.949089262,2.16197818,,chaous,,,,,2
+2,3,3,0.792,0.769230769,1.964764409,2.199687795,,cahours,,,,,2
+3,11,3,0.768,0.692307692,1.949089262,2.16197818,,chaous,,,,,2
+4,6,3,0.616,0.615384615,1.991212061,2.133937566,,chaous,,,,,2
+5,9,4,0.536,0.538461538,1.80565628,1.987773371,,edge of chaouts,,,,,1
+6,10,4,0.488,0.461538462,1.720841917,1.823026491,,edge of chaouts,,,,,1
+7,1,3,0.464,0.384615385,1.579457211,1.488525295,,chaous,,,,,2
+8,5,3,0.32,0.307692308,1.368808395,1.352030102,,chaous,,,,,2
+9,7,3,0.176,0.230769231,0.863202779,1.145110414,,chaous,,,,,2
+10,4,3,0.056,0.153846154,0.344491046,0.773228349,,chaous,,,,,2
+11,12,3,0.048,0.076923077,0.277839574,0.391243564,,chaous,,,,,2
+12,2,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,3,,,,,,,,,,,,
+Rule:,4.14E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,0.571763985,1.140115679,,chaous,,,,,2
+1,11,3,0.968,0.846153846,0.704664793,1.334679141,,chaous,,,,,2
+2,10,3,0.92,0.769230769,0.893771408,1.457265914,,chaous,,,,,2
+3,1,2,0.896,0.692307692,0.896673693,1.419556299,,randomness at begning ends in repeating patter,,,,,0
+4,8,2,0.776,0.615384615,1.163236648,1.460484681,,randomness at begning ends in repeating patter,,,,,0
+5,5,2,0.632,0.538461538,1.317103717,1.460484681,,randomness at begning ends in repeating patter,,,,,0
+6,12,2,0.624,0.461538462,1.299924843,1.295737801,,randomness at begning ends in repeating patter,,,,,0
+7,3,2,0.544,0.384615385,0.994406653,0.961236605,,randomness at begning ends in repeating patter,,,,,0
+8,7,2,0.4,0.307692308,0.970950594,0.89049164,,randomness at begning ends in repeating patter,,,,,0
+9,2,1,0.352,0.230769231,0.935841553,0.779349837,,initial state evloves to a fixed uniform state,,,,,0
+10,6,1,0.2,0.153846154,0.721928095,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,4,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,4,,,,,,,,,,,,
+Rule:,1.21E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.821523001,2.075869297,,chaous,,,,,2
+1,12,3,0.984,0.846153846,1.856509943,2.133937566,,chaous,,,,,2
+2,9,3,0.904,0.769230769,2.074880755,2.199687795,,chaous,,,,,2
+3,4,3,0.784,0.692307692,2.100808326,2.10390991,,chaous,,,,,2
+4,8,3,0.664,0.615384615,1.784872244,1.826245258,,chaous,,,,,2
+5,6,3,0.512,0.538461538,1.667598741,1.738149333,,chaous,,,,,2
+6,1,3,0.488,0.461538462,1.648006865,1.669180337,,chaous,,,,,2
+7,10,3,0.44,0.384615385,1.594550766,1.546593564,,chaous,,,,,2
+8,3,3,0.36,0.307692308,1.457293577,1.352030102,,chaous,,,,,2
+9,2,1,0.312,0.230769231,1.206135606,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,5,1,0.168,0.153846154,0.752510139,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,7,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,11,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,5,,,,,,,,,,,,
+Rule:,4.13E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.993593897,2.199687795,,chaous,,,,,2
+1,3,3,0.912,0.846153846,2.192641007,2.295465679,,chaous,,,,,2
+2,12,3,0.904,0.769230769,2.201373028,2.295465679,,chaous,,,,,2
+3,6,3,0.752,0.692307692,2.309837434,2.257756064,,chaous,,,,,2
+4,2,4,0.704,0.615384615,2.276323523,2.133937566,,edge of chaouts,,,,,1
+5,5,2,0.56,0.538461538,1.874992646,1.833927218,,randomness at begning ends in repeating patter,,,,,0
+6,10,2,0.512,0.461538462,1.804434699,1.727248606,,randomness at begning ends in repeating patter,,,,,0
+7,9,2,0.432,0.384615385,1.665522522,1.546593564,,randomness at begning ends in repeating patter,,,,,0
+8,1,2,0.408,0.307692308,1.62002262,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,4,1,0.288,0.230769231,1.24772691,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,8,1,0.168,0.153846154,0.752510139,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,7,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,11,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,6,,,,,,,,,,,,
+Rule:,2.42E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.824634649,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+1,4,2,0.872,0.846153846,1.781461521,1.884313528,,randomness at begning ends in repeating patter,,,,,0
+2,9,4,0.792,0.769230769,1.801915307,1.950063756,,edge of chaouts,,,,,1
+3,5,3,0.648,0.692307692,1.885451584,1.950063756,,chaous,,,,,2
+4,11,3,0.624,0.615384615,1.850288434,1.826245258,,chaous,,,,,2
+5,10,3,0.576,0.538461538,1.775260314,1.775858948,,chaous,,,,,2
+6,8,2,0.456,0.461538462,1.361145672,1.457265914,,randomness at begning ends in repeating patter,,,,,0
+7,3,2,0.376,0.384615385,1.113058224,1.334679141,,randomness at begning ends in repeating patter,,,,,0
+8,2,1,0.328,0.307692308,1.06414878,1.198183948,,initial state evloves to a fixed uniform state,,,,,0
+9,6,1,0.176,0.230769231,0.79163865,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,1,1,0.152,0.153846154,0.660038539,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,7,1,0.008,0.076923077,0.067221545,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,12,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,7,,,,,,,,,,,,
+Rule:,4.11E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,2.024095927,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+1,10,3,0.944,0.846153846,2.176031705,2.257756064,,chaous,,,,,2
+2,1,3,0.92,0.769230769,2.216849463,2.295465679,,chaous,,,,,2
+3,6,4,0.768,0.692307692,2.270515141,2.199687795,,edge of chaouts,,,,,1
+4,11,2,0.744,0.615384615,2.255006859,2.075869297,,randomness at begning ends in repeating patter,,,,,0
+5,9,4,0.664,0.538461538,2.188879666,1.987773371,,edge of chaouts,,,,,1
+6,2,2,0.616,0.461538462,2.16301511,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,5,2,0.472,0.384615385,1.716669816,1.546593564,,randomness at begning ends in repeating patter,,,,,0
+8,7,2,0.328,0.307692308,1.423565857,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,8,2,0.208,0.230769231,0.980752722,1.145110414,,randomness at begning ends in repeating patter,,,,,0
+10,12,2,0.2,0.153846154,0.916118214,0.773228349,,randomness at begning ends in repeating patter,,,,,0
+11,4,1,0.08,0.076923077,0.40217919,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,3,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,8,,,,,,,,,,,,
+Rule:,3.43E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.7910126,2.038159682,,chaous,,,,,2
+1,11,3,0.968,0.846153846,1.831169,2.038159682,,chaous,,,,,2
+2,7,3,0.824,0.769230769,2.087851511,2.10390991,,chaous,,,,,2
+3,2,3,0.776,0.692307692,2.098172512,2.10390991,,chaous,,,,,2
+4,10,3,0.728,0.615384615,1.915308322,1.826245258,,chaous,,,,,2
+5,12,3,0.72,0.538461538,1.911819194,1.738149333,,chaous,,,,,2
+6,3,3,0.64,0.461538462,1.917478536,1.669180337,,chaous,,,,,2
+7,9,3,0.56,0.384615385,1.810691743,1.488525295,,chaous,,,,,2
+8,6,3,0.408,0.307692308,1.62002262,1.352030102,,chaous,,,,,2
+9,8,3,0.288,0.230769231,1.24772691,1.145110414,,chaous,,,,,2
+10,1,3,0.264,0.153846154,1.095146613,0.773228349,,chaous,,,,,2
+11,4,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,5,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,9,,,,,,,,,,,,
+Rule:,2.42E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.687578454,2.10390991,,chaous,,,,,2
+1,4,3,0.872,0.846153846,2.012644363,2.199687795,,chaous,,,,,2
+2,11,3,0.848,0.769230769,1.916998481,1.987773371,,chaous,,,,,2
+3,1,2,0.824,0.692307692,1.918650403,1.950063756,,randomness at begning ends in repeating patter,,,,,0
+4,2,2,0.776,0.615384615,1.953012831,1.922023143,,randomness at begning ends in repeating patter,,,,,0
+5,3,2,0.696,0.538461538,1.860244617,1.775858948,,randomness at begning ends in repeating patter,,,,,0
+6,12,2,0.688,0.461538462,1.859940856,1.669180337,,randomness at begning ends in repeating patter,,,,,0
+7,6,1,0.536,0.384615385,1.732412163,1.488525295,,initial state evloves to a fixed uniform state,,,,,0
+8,5,1,0.392,0.307692308,1.252244617,1.140115679,,initial state evloves to a fixed uniform state,,,,,0
+9,10,1,0.344,0.230769231,1.197755875,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,8,1,0.224,0.153846154,0.978028471,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,7,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,10,,,,,,,,,,,,
+Rule:,3.33E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,4,0.992,0.923076923,1.83002102,2.10390991,,edge of chaouts,,,,,1
+1,10,2,0.944,0.846153846,2.023210691,2.199687795,,randomness at begning ends in repeating patter,,,,,0
+2,7,2,0.8,0.769230769,2.253451406,2.199687795,,randomness at begning ends in repeating patter,,,,,0
+3,6,2,0.648,0.692307692,2.20203171,2.10390991,,randomness at begning ends in repeating patter,,,,,0
+4,9,3,0.568,0.615384615,2.119006848,2.075869297,,chaous,,,,,2
+5,5,3,0.424,0.538461538,1.651710648,1.775858948,,chaous,,,,,2
+6,2,2,0.376,0.461538462,1.544335716,1.669180337,,randomness at begning ends in repeating patter,,,,,0
+7,12,2,0.368,0.384615385,1.527653049,1.546593564,,randomness at begning ends in repeating patter,,,,,0
+8,8,2,0.248,0.307692308,1.145021766,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,11,2,0.224,0.230769231,0.990579317,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,3,2,0.144,0.153846154,0.688222573,0.773228349,,randomness at begning ends in repeating patter,,,,,0
+11,4,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,1,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,11,,,,,,,,,,,,
+Rule:,4.44E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.648479855,2.038159682,,chaous,,,,,2
+1,5,3,0.848,0.846153846,1.934300727,2.133937566,,chaous,,,,,2
+2,4,2,0.728,0.769230769,1.848274016,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+3,6,2,0.576,0.692307692,1.848274016,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+4,2,2,0.528,0.615384615,1.80724716,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,11,2,0.504,0.538461538,1.73472971,1.987773371,,randomness at begning ends in repeating patter,,,,,0
+6,8,2,0.384,0.461538462,1.519672342,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,3,1,0.304,0.384615385,1.242530809,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,10,1,0.256,0.307692308,0.985763527,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,9,1,0.176,0.230769231,0.81759955,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,1,1,0.152,0.153846154,0.660038539,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,12,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,7,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,12,,,,,,,,,,,,
+Rule:,2.21E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.85822636,2.10390991,,chaous,,,,,2
+1,5,3,0.848,0.846153846,2.209714379,2.199687795,,chaous,,,,,2
+2,1,3,0.824,0.769230769,2.222332578,2.23739741,,chaous,,,,,2
+3,3,3,0.744,0.692307692,1.992946791,1.987773371,,chaous,,,,,2
+4,4,3,0.624,0.615384615,1.935450456,1.922023143,,chaous,,,,,2
+5,10,3,0.576,0.538461538,1.864420047,1.775858948,,chaous,,,,,2
+6,12,3,0.568,0.461538462,1.857151007,1.669180337,,chaous,,,,,2
+7,2,1,0.52,0.384615385,1.79994246,1.546593564,,initial state evloves to a fixed uniform state,,,,,0
+8,6,1,0.368,0.307692308,1.398081378,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,9,1,0.288,0.230769231,1.24772691,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,8,1,0.168,0.153846154,0.752510139,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,7,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,11,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,13,,,,,,,,,,,,
+Rule:,3.23E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.989192328,2.038159682,,chaous,,,,,2
+1,2,3,0.944,0.846153846,2.153058265,2.133937566,,chaous,,,,,2
+2,4,2,0.824,0.769230769,2.270100926,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+3,7,3,0.68,0.692307692,2.163037155,2.038159682,,chaous,,,,,2
+4,8,3,0.56,0.615384615,2.079394103,2.038159682,,chaous,,,,,2
+5,11,3,0.536,0.538461538,2.044264178,1.987773371,,chaous,,,,,2
+6,6,3,0.384,0.461538462,1.593535346,1.823026491,,chaous,,,,,2
+7,3,1,0.304,0.384615385,1.387037564,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,1,1,0.28,0.307692308,1.301348407,1.505876256,,initial state evloves to a fixed uniform state,,,,,0
+9,9,1,0.2,0.230769231,0.926151933,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,5,1,0.056,0.153846154,0.344491046,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,12,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,10,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,14,,,,,,,,,,,,
+Rule:,1.24E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.338018021,2.038159682,,chaous,,,,,2
+1,4,3,0.872,0.846153846,1.630048136,2.133937566,,chaous,,,,,2
+2,5,3,0.728,0.769230769,1.822676334,2.199687795,,chaous,,,,,2
+3,6,2,0.576,0.692307692,1.822676334,2.199687795,,randomness at begning ends in repeating patter,,,,,0
+4,11,2,0.552,0.615384615,1.687658702,1.922023143,,randomness at begning ends in repeating patter,,,,,0
+5,2,2,0.504,0.538461538,1.643014727,1.833927218,,randomness at begning ends in repeating patter,,,,,0
+6,10,2,0.456,0.461538462,1.584585759,1.727248606,,randomness at begning ends in repeating patter,,,,,0
+7,9,2,0.376,0.384615385,1.450452862,1.546593564,,randomness at begning ends in repeating patter,,,,,0
+8,1,2,0.352,0.307692308,1.328321045,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,12,2,0.344,0.230769231,1.265989731,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,3,2,0.264,0.153846154,1.095146613,0.773228349,,randomness at begning ends in repeating patter,,,,,0
+11,7,2,0.12,0.076923077,0.529360865,0.391243564,,randomness at begning ends in repeating patter,,,,,0
+12,8,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,15,,,,,,,,,,,,
+Rule:,4.33E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.888364918,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+1,1,2,0.968,0.846153846,1.963539901,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+2,11,2,0.944,0.769230769,2.014239298,2.199687795,,randomness at begning ends in repeating patter,,,,,0
+3,9,3,0.864,0.692307692,2.189033809,2.199687795,,chaous,,,,,2
+4,6,3,0.712,0.615384615,1.901675337,1.922023143,,chaous,,,,,2
+5,7,3,0.568,0.538461538,1.871474194,1.833927218,,chaous,,,,,2
+6,2,3,0.52,0.461538462,1.795138074,1.727248606,,chaous,,,,,2
+7,8,3,0.4,0.384615385,1.601981217,1.546593564,,chaous,,,,,2
+8,5,2,0.256,0.307692308,1.119823258,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,3,2,0.176,0.230769231,0.863202779,1.145110414,,randomness at begning ends in repeating patter,,,,,0
+10,4,1,0.056,0.153846154,0.344491046,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,10,1,0.008,0.076923077,0.067221545,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,12,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,16,,,,,,,,,,,,
+Rule:,4.22E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,1,0.992,0.923076923,1.479387599,2.038159682,,initial state evloves to a fixed uniform state,,,,,0
+1,4,1,0.872,0.846153846,1.855987814,2.16197818,,initial state evloves to a fixed uniform state,,,,,0
+2,5,1,0.728,0.769230769,1.985997999,2.199687795,,initial state evloves to a fixed uniform state,,,,,0
+3,8,2,0.608,0.692307692,1.925959865,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+4,3,2,0.528,0.615384615,1.738240404,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+5,1,2,0.504,0.538461538,1.700741536,1.891995487,,randomness at begning ends in repeating patter,,,,,0
+6,7,3,0.36,0.461538462,1.50430214,1.823026491,,chaous,,,,,2
+7,2,1,0.312,0.384615385,1.253144169,1.488525295,,initial state evloves to a fixed uniform state,,,,,0
+8,10,1,0.264,0.307692308,1.133911972,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,6,1,0.112,0.230769231,0.547497265,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,12,1,0.104,0.153846154,0.481548544,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,11,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,17,,,,,,,,,,,,
+Rule:,3.43E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.961000332,2.199687795,,chaous,,,,,2
+1,4,3,0.872,0.846153846,2.261905884,2.257756064,,chaous,,,,,2
+2,1,3,0.848,0.769230769,2.263834451,2.295465679,,chaous,,,,,2
+3,10,3,0.8,0.692307692,2.232213159,2.257756064,,chaous,,,,,2
+4,9,3,0.72,0.615384615,2.228262245,2.192005835,,chaous,,,,,2
+5,11,2,0.696,0.538461538,2.208266508,2.045841641,,randomness at begning ends in repeating patter,,,,,0
+6,12,2,0.688,0.461538462,2.193266715,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,7,1,0.544,0.384615385,2.045407537,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,2,3,0.496,0.307692308,1.972499902,1.505876256,,chaous,,,,,2
+9,5,3,0.352,0.230769231,1.477295382,1.145110414,,chaous,,,,,2
+10,3,1,0.272,0.153846154,1.113597933,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,8,1,0.152,0.076923077,0.614822757,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,6,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,18,,,,,,,,,,,,
+Rule:,2.23E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.628948535,1.891995487,,chaous,,,,,2
+1,6,3,0.84,0.846153846,2.011030569,2.038159682,,chaous,,,,,2
+2,10,3,0.792,0.769230769,2.0440747,2.10390991,,chaous,,,,,2
+3,1,3,0.768,0.692307692,2.049863779,2.10390991,,chaous,,,,,2
+4,4,3,0.648,0.615384615,2.049863779,2.075869297,,chaous,,,,,2
+5,12,3,0.64,0.538461538,2.044720682,1.987773371,,chaous,,,,,2
+6,5,3,0.496,0.461538462,1.609707916,1.669180337,,chaous,,,,,2
+7,8,3,0.376,0.384615385,1.416806698,1.546593564,,chaous,,,,,2
+8,11,3,0.352,0.307692308,1.26871398,1.198183948,,chaous,,,,,2
+9,7,3,0.208,0.230769231,0.937579594,0.991264261,,chaous,,,,,2
+10,2,3,0.16,0.153846154,0.794309555,0.773228349,,chaous,,,,,2
+11,3,1,0.08,0.076923077,0.40217919,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,9,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,19,,,,,,,,,,,,
+Rule:,3.32E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.712628146,2.199687795,,chaous,,,,,2
+1,12,3,0.984,0.846153846,1.722589046,2.199687795,,chaous,,,,,2
+2,6,3,0.832,0.769230769,1.958216716,2.199687795,,chaous,,,,,2
+3,5,3,0.688,0.692307692,2.057832905,2.199687795,,chaous,,,,,2
+4,2,1,0.64,0.615384615,2.009654882,2.133937566,,initial state evloves to a fixed uniform state,,,,,0
+5,8,1,0.52,0.538461538,1.920147203,2.045841641,,initial state evloves to a fixed uniform state,,,,,0
+6,4,1,0.4,0.461538462,1.580593575,1.88109476,,initial state evloves to a fixed uniform state,,,,,0
+7,7,1,0.256,0.384615385,1.208985234,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,3,1,0.176,0.307692308,0.990197203,1.505876256,,initial state evloves to a fixed uniform state,,,,,0
+9,9,1,0.096,0.230769231,0.600186103,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,10,1,0.048,0.153846154,0.325839574,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,11,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,1,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,20,,,,,,,,,,,,
+Rule:,1.12E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.860758259,2.199687795,,chaous,,,,,2
+1,7,3,0.848,0.846153846,2.146579131,2.257756064,,chaous,,,,,2
+2,10,3,0.8,0.769230769,2.143336475,2.199687795,,chaous,,,,,2
+3,12,3,0.792,0.692307692,2.140239765,2.10390991,,chaous,,,,,2
+4,11,3,0.768,0.615384615,2.106801436,2.038159682,,chaous,,,,,2
+5,9,3,0.688,0.538461538,2.13933302,1.987773371,,chaous,,,,,2
+6,6,3,0.536,0.461538462,1.715960312,1.669180337,,chaous,,,,,2
+7,3,3,0.456,0.384615385,1.647846956,1.546593564,,chaous,,,,,2
+8,1,2,0.432,0.307692308,1.570526778,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,2,2,0.384,0.230769231,1.327320832,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,5,2,0.24,0.153846154,0.795040279,0.619382195,,randomness at begning ends in repeating patter,,,,,0
+11,4,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,8,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,21,,,,,,,,,,,,
+Rule:,3.41E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,4,0.992,0.923076923,1.659828989,2.133937566,,edge of chaouts,,,,,1
+1,8,3,0.872,0.846153846,2.041907943,2.257756064,,chaous,,,,,2
+2,3,3,0.792,0.769230769,2.001970729,2.199687795,,chaous,,,,,2
+3,10,3,0.744,0.692307692,1.889857691,2.10390991,,chaous,,,,,2
+4,2,3,0.696,0.615384615,1.919936034,2.075869297,,chaous,,,,,2
+5,11,3,0.672,0.538461538,1.79606804,1.775858948,,chaous,,,,,2
+6,12,3,0.664,0.461538462,1.789001879,1.669180337,,chaous,,,,,2
+7,5,3,0.52,0.384615385,1.748142539,1.546593564,,chaous,,,,,2
+8,4,2,0.4,0.307692308,1.577409658,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,9,2,0.32,0.230769231,1.222069283,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,1,2,0.296,0.153846154,1.172190243,0.773228349,,randomness at begning ends in repeating patter,,,,,0
+11,6,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,7,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,22,,,,,,,,,,,,
+Rule:,2.34E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,2.033282248,2.199687795,,chaous,,,,,2
+1,12,3,0.984,0.846153846,2.0696916,2.295465679,,chaous,,,,,2
+2,3,3,0.904,0.769230769,2.222901809,2.23739741,,chaous,,,,,2
+3,4,4,0.784,0.692307692,2.291031582,2.199687795,,edge of chaouts,,,,,1
+4,10,2,0.736,0.615384615,2.293309625,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,11,2,0.712,0.538461538,2.278494746,2.045841641,,randomness at begning ends in repeating patter,,,,,0
+6,6,2,0.56,0.461538462,1.869319854,1.727248606,,randomness at begning ends in repeating patter,,,,,0
+7,7,1,0.416,0.384615385,1.609353841,1.546593564,,initial state evloves to a fixed uniform state,,,,,0
+8,9,2,0.336,0.307692308,1.256939448,1.198183948,,randomness at begning ends in repeating patter,,,,,0
+9,1,2,0.312,0.230769231,1.206135606,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,5,1,0.168,0.153846154,0.653109112,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,2,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,8,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,23,,,,,,,,,,,,
+Rule:,3.23E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.833895328,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+1,5,2,0.848,0.846153846,1.888080573,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+2,3,2,0.768,0.769230769,1.906098612,2.199687795,,randomness at begning ends in repeating patter,,,,,0
+3,1,2,0.744,0.692307692,1.893977108,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+4,2,2,0.696,0.615384615,1.798685344,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+5,12,3,0.688,0.538461538,1.790833329,1.891995487,,chaous,,,,,2
+6,7,3,0.544,0.461538462,1.795167166,1.823026491,,chaous,,,,,2
+7,4,2,0.424,0.384615385,1.675333964,1.700439718,,randomness at begning ends in repeating patter,,,,,0
+8,6,2,0.272,0.307692308,1.137221249,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,8,1,0.152,0.230769231,0.832636192,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,11,1,0.128,0.153846154,0.674095106,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,10,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,24,,,,,,,,,,,,
+Rule:,4.23E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.870914737,2.038159682,,chaous,,,,,2
+1,4,3,0.872,0.846153846,2.14367769,2.133937566,,chaous,,,,,2
+2,5,3,0.728,0.769230769,2.233361615,2.199687795,,chaous,,,,,2
+3,9,3,0.648,0.692307692,1.961185826,1.950063756,,chaous,,,,,2
+4,7,3,0.504,0.615384615,1.728445486,1.884313528,,chaous,,,,,2
+5,12,3,0.496,0.538461538,1.719381863,1.833927218,,chaous,,,,,2
+6,11,3,0.472,0.461538462,1.688567114,1.727248606,,chaous,,,,,2
+7,2,3,0.424,0.384615385,1.609216664,1.546593564,,chaous,,,,,2
+8,8,3,0.304,0.307692308,1.341821782,1.352030102,,chaous,,,,,2
+9,10,3,0.256,0.230769231,1.1511718,1.145110414,,chaous,,,,,2
+10,6,3,0.104,0.153846154,0.562600927,0.773228349,,chaous,,,,,2
+11,3,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,1,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,25,,,,,,,,,,,,
+Rule:,1.41E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.761232075,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+1,7,2,0.848,0.846153846,1.978440269,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+2,11,2,0.824,0.769230769,1.98166876,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+3,2,3,0.776,0.692307692,1.958763678,2.038159682,,chaous,,,,,2
+4,10,3,0.728,0.615384615,1.809033163,1.914341184,,chaous,,,,,2
+5,8,3,0.608,0.538461538,1.460683668,1.614330835,,chaous,,,,,2
+6,1,3,0.584,0.461538462,1.465776644,1.573402452,,chaous,,,,,2
+7,5,3,0.44,0.384615385,1.415513431,1.488525295,,chaous,,,,,2
+8,3,3,0.36,0.307692308,1.323871842,1.352030102,,chaous,,,,,2
+9,12,3,0.352,0.230769231,1.26168302,0.991264261,,chaous,,,,,2
+10,9,3,0.272,0.153846154,1.113597933,0.773228349,,chaous,,,,,2
+11,6,3,0.12,0.076923077,0.529360865,0.391243564,,chaous,,,,,2
+12,4,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,26,,,,,,,,,,,,
+Rule:,1.21E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.71246294,1.987773371,,chaous,,,,,2
+1,1,3,0.968,0.846153846,1.800256122,2.045841641,,chaous,,,,,2
+2,10,3,0.92,0.769230769,1.95572586,2.133937566,,chaous,,,,,2
+3,11,2,0.896,0.692307692,2.012731016,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+4,2,2,0.848,0.615384615,2.098612023,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,5,2,0.704,0.538461538,2.189891839,2.045841641,,randomness at begning ends in repeating patter,,,,,0
+6,6,2,0.552,0.461538462,2.045158052,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,8,2,0.432,0.384615385,1.622623564,1.546593564,,randomness at begning ends in repeating patter,,,,,0
+8,3,2,0.352,0.307692308,1.483835429,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,12,2,0.344,0.230769231,1.46017985,1.145110414,,randomness at begning ends in repeating patter,,,,,0
+10,4,1,0.224,0.153846154,0.978028471,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,7,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,27,,,,,,,,,,,,
+Rule:,4.22E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.103872685,1.669180337,,chaous,,,,,2
+1,12,4,0.984,0.846153846,1.13534812,1.727248606,,edge of chaouts,,,,,1
+2,3,3,0.904,0.769230769,1.437979205,1.833927218,,chaous,,,,,2
+3,7,3,0.76,0.692307692,1.703035977,1.884313528,,chaous,,,,,2
+4,1,3,0.736,0.615384615,1.688144655,1.76049503,,chaous,,,,,2
+5,9,3,0.656,0.538461538,1.739118226,1.738149333,,chaous,,,,,2
+6,11,3,0.632,0.461538462,1.677238902,1.573402452,,chaous,,,,,2
+7,10,3,0.584,0.384615385,1.462604979,1.238901257,,chaous,,,,,2
+8,4,3,0.464,0.307692308,1.419630004,1.140115679,,chaous,,,,,2
+9,2,1,0.416,0.230769231,1.373521713,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,6,1,0.264,0.153846154,0.832722637,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,8,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,5,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,28,,,,,,,,,,,,
+Rule:,4.33E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.791488625,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+1,1,2,0.968,0.846153846,1.831645025,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+2,9,3,0.888,0.769230769,2.01847691,2.10390991,,chaous,,,,,2
+3,12,3,0.88,0.692307692,2.029445558,2.10390991,,chaous,,,,,2
+4,2,3,0.832,0.615384615,2.094694286,2.075869297,,chaous,,,,,2
+5,7,3,0.688,0.538461538,2.121421958,1.987773371,,chaous,,,,,2
+6,4,3,0.568,0.461538462,1.94737304,1.823026491,,chaous,,,,,2
+7,6,3,0.416,0.384615385,1.760155894,1.700439718,,chaous,,,,,2
+8,8,3,0.296,0.307692308,1.390003677,1.505876256,,chaous,,,,,2
+9,10,3,0.248,0.230769231,1.13247092,1.145110414,,chaous,,,,,2
+10,5,3,0.104,0.153846154,0.562600927,0.773228349,,chaous,,,,,2
+11,3,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,11,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,29,,,,,,,,,,,,
+Rule:,2.22E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.85011352,2.133937566,,chaous,,,,,2
+1,2,3,0.944,0.846153846,2.006259156,2.257756064,,chaous,,,,,2
+2,8,3,0.824,0.769230769,2.095251751,2.295465679,,chaous,,,,,2
+3,11,3,0.8,0.692307692,2.078494748,2.257756064,,chaous,,,,,2
+4,4,2,0.68,0.615384615,2.042353906,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,10,2,0.632,0.538461538,1.869911972,1.987773371,,randomness at begning ends in repeating patter,,,,,0
+6,5,2,0.488,0.461538462,1.786406069,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,6,1,0.336,0.384615385,1.271064869,1.546593564,,initial state evloves to a fixed uniform state,,,,,0
+8,7,1,0.192,0.307692308,0.935349428,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,1,1,0.168,0.230769231,0.859509944,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,12,1,0.16,0.153846154,0.794309555,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,3,1,0.08,0.076923077,0.40217919,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,9,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,30,,,,,,,,,,,,
+Rule:,3.14E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.879572981,2.199687795,,chaous,,,,,2
+1,5,3,0.848,0.846153846,2.216517491,2.257756064,,chaous,,,,,2
+2,3,3,0.768,0.769230769,2.253673344,2.295465679,,chaous,,,,,2
+3,10,3,0.72,0.692307692,2.16460389,2.199687795,,chaous,,,,,2
+4,6,3,0.568,0.615384615,1.883027134,2.133937566,,chaous,,,,,2
+5,4,1,0.448,0.538461538,1.689234806,2.045841641,,initial state evloves to a fixed uniform state,,,,,0
+6,1,2,0.424,0.461538462,1.571263506,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,9,2,0.344,0.384615385,1.301392822,1.700439718,,randomness at begning ends in repeating patter,,,,,0
+8,2,1,0.296,0.307692308,1.048585278,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,7,1,0.152,0.230769231,0.753641768,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,8,1,0.032,0.153846154,0.230285571,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,11,1,0.008,0.076923077,0.067221545,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,12,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,31,,,,,,,,,,,,
+Rule:,2.12E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.820750688,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+1,7,4,0.848,0.846153846,2.055370004,2.16197818,,edge of chaouts,,,,,1
+2,2,4,0.8,0.769230769,1.896361949,1.950063756,,edge of chaouts,,,,,1
+3,10,4,0.752,0.692307692,1.930823685,1.950063756,,edge of chaouts,,,,,1
+4,1,4,0.728,0.615384615,1.905145672,1.922023143,,edge of chaouts,,,,,1
+5,4,2,0.608,0.538461538,1.877756879,1.833927218,,randomness at begning ends in repeating patter,,,,,0
+6,8,1,0.488,0.461538462,1.744828049,1.669180337,,initial state evloves to a fixed uniform state,,,,,0
+7,6,1,0.336,0.384615385,1.229486848,1.334679141,,initial state evloves to a fixed uniform state,,,,,0
+8,3,1,0.256,0.307692308,0.959802627,1.198183948,,initial state evloves to a fixed uniform state,,,,,0
+9,5,1,0.112,0.230769231,0.602588748,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,12,1,0.104,0.153846154,0.562600927,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.024,0.076923077,0.163345543,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,11,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,32,,,,,,,,,,,,
+Rule:,2.11E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.998508201,2.10390991,,randomness at begning ends in repeating patter,,,,,0
+1,6,2,0.84,0.846153846,2.272107369,2.16197818,,randomness at begning ends in repeating patter,,,,,0
+2,3,3,0.76,0.769230769,2.281102157,2.199687795,,chaous,,,,,2
+3,9,3,0.68,0.692307692,2.259216002,2.199687795,,chaous,,,,,2
+4,11,3,0.656,0.615384615,2.23800139,2.133937566,,chaous,,,,,2
+5,1,2,0.632,0.538461538,2.209405793,1.987773371,,randomness at begning ends in repeating patter,,,,,0
+6,8,2,0.512,0.461538462,1.961707899,1.823026491,,randomness at begning ends in repeating patter,,,,,0
+7,2,1,0.464,0.384615385,1.877343878,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,4,1,0.344,0.307692308,1.470213569,1.505876256,,initial state evloves to a fixed uniform state,,,,,0
+9,12,1,0.336,0.230769231,1.407741502,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,5,1,0.192,0.153846154,0.861402006,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,7,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,10,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,33,,,,,,,,,,,,
+Rule:,2.21E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.833360497,2.199687795,,chaous,,,,,2
+1,10,3,0.944,0.846153846,2.022868881,2.295465679,,chaous,,,,,2
+2,11,3,0.92,0.769230769,2.033417992,2.23739741,,chaous,,,,,2
+3,4,3,0.8,0.692307692,2.199785728,2.199687795,,chaous,,,,,2
+4,3,2,0.72,0.615384615,1.958111969,1.922023143,,randomness at begning ends in repeating patter,,,,,0
+5,7,3,0.576,0.538461538,1.861986155,1.775858948,,chaous,,,,,2
+6,9,3,0.496,0.461538462,1.695525728,1.669180337,,chaous,,,,,2
+7,8,3,0.376,0.384615385,1.524088736,1.546593564,,chaous,,,,,2
+8,2,1,0.328,0.307692308,1.340737912,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,5,1,0.184,0.230769231,0.837361124,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,1,1,0.16,0.153846154,0.680133068,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,6,1,0.008,0.076923077,0.067221545,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,12,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,34,,,,,,,,,,,,
+Rule:,2.13E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,4,0.992,0.923076923,1.879303244,2.10390991,,edge of chaouts,,,,,1
+1,4,3,0.872,0.846153846,2.050202544,2.16197818,,chaous,,,,,2
+2,9,3,0.792,0.769230769,2.133766719,2.199687795,,chaous,,,,,2
+3,10,3,0.744,0.692307692,2.051536381,2.10390991,,chaous,,,,,2
+4,6,3,0.592,0.615384615,1.966871823,2.038159682,,chaous,,,,,2
+5,1,2,0.568,0.538461538,1.955217054,1.987773371,,randomness at begning ends in repeating patter,,,,,0
+6,3,2,0.488,0.461538462,1.635082702,1.669180337,,randomness at begning ends in repeating patter,,,,,0
+7,11,2,0.464,0.384615385,1.612877249,1.546593564,,randomness at begning ends in repeating patter,,,,,0
+8,8,2,0.344,0.307692308,1.424997787,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,7,1,0.2,0.230769231,0.880936151,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,2,1,0.152,0.153846154,0.614822757,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,12,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,5,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,35,,,,,,,,,,,,
+Rule:,3.33E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,2.004651734,2.075869297,,randomness at begning ends in repeating patter,,,,,0
+1,6,2,0.84,0.846153846,1.958828221,1.922023143,,randomness at begning ends in repeating patter,,,,,0
+2,1,2,0.816,0.769230769,1.979020111,1.987773371,,randomness at begning ends in repeating patter,,,,,0
+3,10,2,0.768,0.692307692,1.984173367,1.950063756,,randomness at begning ends in repeating patter,,,,,0
+4,4,3,0.648,0.615384615,1.927609939,1.884313528,,chaous,,,,,2
+5,7,3,0.504,0.538461538,1.792361713,1.833927218,,chaous,,,,,2
+6,3,1,0.424,0.461538462,1.609216664,1.727248606,,initial state evloves to a fixed uniform state,,,,,0
+7,9,1,0.344,0.384615385,1.452483716,1.546593564,,initial state evloves to a fixed uniform state,,,,,0
+8,5,1,0.2,0.307692308,0.953637861,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,8,1,0.08,0.230769231,0.439698838,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,11,1,0.056,0.153846154,0.344491046,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,12,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,2,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,36,,,,,,,,,,,,
+Rule:,4.34E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.569727903,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+1,7,3,0.848,0.846153846,1.988461012,2.16197818,,chaous,,,,,2
+2,1,3,0.824,0.769230769,1.998646159,2.199687795,,chaous,,,,,2
+3,9,3,0.744,0.692307692,2.065509321,2.199687795,,chaous,,,,,2
+4,12,3,0.736,0.615384615,2.062709497,2.133937566,,chaous,,,,,2
+5,4,3,0.616,0.538461538,1.912820934,1.987773371,,chaous,,,,,2
+6,2,2,0.568,0.461538462,1.840417589,1.823026491,,randomness at begning ends in repeating patter,,,,,0
+7,6,1,0.416,0.384615385,1.697993723,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,11,1,0.392,0.307692308,1.552150437,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,8,1,0.272,0.230769231,1.082042739,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,3,1,0.192,0.153846154,0.705636606,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,5,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,10,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,37,,,,,,,,,,,,
+Rule:,2.44E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.944596956,2.075869297,,chaous,,,,,2
+1,11,3,0.968,0.846153846,2.04663268,2.199687795,,chaous,,,,,2
+2,5,3,0.824,0.769230769,2.222085929,2.199687795,,chaous,,,,,2
+3,3,3,0.744,0.692307692,2.192637356,2.16197818,,chaous,,,,,2
+4,10,3,0.696,0.615384615,2.201904271,2.133937566,,chaous,,,,,2
+5,7,3,0.552,0.538461538,1.841264212,1.987773371,,chaous,,,,,2
+6,9,3,0.472,0.461538462,1.639440922,1.823026491,,chaous,,,,,2
+7,1,3,0.448,0.384615385,1.61718382,1.700439718,,chaous,,,,,2
+8,2,2,0.4,0.307692308,1.375876306,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,6,2,0.248,0.230769231,1.099079725,1.145110414,,randomness at begning ends in repeating patter,,,,,0
+10,4,1,0.128,0.153846154,0.595100682,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,12,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,8,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,38,,,,,,,,,,,,
+Rule:,3.31E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.828269745,1.987773371,,chaous,,,,,2
+1,10,3,0.944,0.846153846,1.795136069,1.833927218,,chaous,,,,,2
+2,6,3,0.792,0.769230769,1.932193481,1.833927218,,chaous,,,,,2
+3,3,2,0.712,0.692307692,1.846700789,1.738149333,,randomness at begning ends in repeating patter,,,,,0
+4,1,3,0.688,0.615384615,1.852629422,1.76049503,,chaous,,,,,2
+5,4,2,0.568,0.538461538,1.805351086,1.738149333,,randomness at begning ends in repeating patter,,,,,0
+6,12,2,0.56,0.461538462,1.797456015,1.669180337,,randomness at begning ends in repeating patter,,,,,0
+7,7,1,0.416,0.384615385,1.589289923,1.488525295,,initial state evloves to a fixed uniform state,,,,,0
+8,8,1,0.296,0.307692308,1.125534477,1.140115679,,initial state evloves to a fixed uniform state,,,,,0
+9,5,1,0.152,0.230769231,0.766518891,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,9,1,0.072,0.153846154,0.373343321,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,11,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,2,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,39,,,,,,,,,,,,
+Rule:,4.32E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,2.034832603,2.199687795,,chaous,,,,,2
+1,6,3,0.84,0.846153846,2.238478377,2.257756064,,chaous,,,,,2
+2,12,3,0.832,0.769230769,2.245137341,2.295465679,,chaous,,,,,2
+3,4,4,0.712,0.692307692,2.210748953,2.257756064,,edge of chaouts,,,,,1
+4,5,3,0.568,0.615384615,1.969810553,2.133937566,,chaous,,,,,2
+5,7,3,0.424,0.538461538,1.790514353,2.045841641,,chaous,,,,,2
+6,3,2,0.344,0.461538462,1.520643669,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,2,2,0.296,0.384615385,1.390003677,1.700439718,,randomness at begning ends in repeating patter,,,,,0
+8,1,2,0.272,0.307692308,1.331411367,1.505876256,,randomness at begning ends in repeating patter,,,,,0
+9,8,1,0.152,0.230769231,0.832636192,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,10,1,0.104,0.153846154,0.562600927,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,11,1,0.08,0.076923077,0.40217919,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,9,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,40,,,,,,,,,,,,
+Rule:,3.41E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.693647902,2.075869297,,chaous,,,,,2
+1,12,3,0.984,0.846153846,1.735953237,2.199687795,,chaous,,,,,2
+2,3,3,0.904,0.769230769,1.979069275,2.23739741,,chaous,,,,,2
+3,9,3,0.824,0.692307692,2.084892923,2.199687795,,chaous,,,,,2
+4,1,3,0.8,0.615384615,1.97902075,1.922023143,,chaous,,,,,2
+5,2,2,0.752,0.538461538,1.968297676,1.833927218,,randomness at begning ends in repeating patter,,,,,0
+6,6,2,0.6,0.461538462,1.880924881,1.669180337,,randomness at begning ends in repeating patter,,,,,0
+7,5,2,0.456,0.384615385,1.427356772,1.334679141,,randomness at begning ends in repeating patter,,,,,0
+8,7,2,0.312,0.307692308,1.206135606,1.198183948,,randomness at begning ends in repeating patter,,,,,0
+9,11,2,0.288,0.230769231,1.148325883,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,4,2,0.168,0.153846154,0.653109112,0.619382195,,randomness at begning ends in repeating patter,,,,,0
+11,10,2,0.12,0.076923077,0.529360865,0.391243564,,randomness at begning ends in repeating patter,,,,,0
+12,8,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,41,,,,,,,,,,,,
+Rule:,1.32E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.7252538,2.075869297,,randomness at begning ends in repeating patter,,,,,0
+1,12,3,0.984,0.846153846,1.768521512,2.199687795,,chaous,,,,,2
+2,7,3,0.84,0.769230769,2.124574457,2.23739741,,chaous,,,,,2
+3,1,3,0.816,0.692307692,2.130490452,2.199687795,,chaous,,,,,2
+4,3,2,0.736,0.615384615,2.107484107,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,6,1,0.584,0.538461538,2.060769924,2.045841641,,initial state evloves to a fixed uniform state,,,,,0
+6,9,1,0.504,0.461538462,1.938815843,1.88109476,,initial state evloves to a fixed uniform state,,,,,0
+7,8,1,0.384,0.384615385,1.500583575,1.546593564,,initial state evloves to a fixed uniform state,,,,,0
+8,5,1,0.24,0.307692308,1.124068422,1.352030102,,initial state evloves to a fixed uniform state,,,,,0
+9,2,1,0.192,0.230769231,0.861402006,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,10,1,0.144,0.153846154,0.594619344,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,11,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,4,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,42,,,,,,,,,,,,
+Rule:,1.43E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,4,0.992,0.923076923,1.950029336,2.23739741,,edge of chaouts,,,,,1
+1,10,2,0.944,0.846153846,2.079000426,2.295465679,,randomness at begning ends in repeating patter,,,,,0
+2,11,2,0.92,0.769230769,2.107898181,2.295465679,,randomness at begning ends in repeating patter,,,,,0
+3,7,2,0.776,0.692307692,2.068364288,2.257756064,,randomness at begning ends in repeating patter,,,,,0
+4,3,2,0.696,0.615384615,1.975596074,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,6,3,0.544,0.538461538,1.950831067,2.045841641,,chaous,,,,,2
+6,8,3,0.424,0.461538462,1.78800296,1.88109476,,chaous,,,,,2
+7,5,3,0.28,0.384615385,1.268214732,1.546593564,,chaous,,,,,2
+8,1,2,0.256,0.307692308,1.208857134,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,4,1,0.136,0.230769231,0.70659536,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,12,1,0.128,0.153846154,0.674095106,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,2,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,43,,,,,,,,,,,,
+Rule:,1.42E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.776355341,2.10390991,,chaous,,,,,2
+1,3,3,0.912,0.846153846,1.737679607,1.950063756,,chaous,,,,,2
+2,2,3,0.864,0.769230769,1.793157033,1.987773371,,chaous,,,,,2
+3,10,3,0.816,0.692307692,1.808704117,1.950063756,,chaous,,,,,2
+4,8,4,0.696,0.615384615,1.627354535,1.884313528,,edge of chaouts,,,,,1
+5,4,3,0.576,0.538461538,1.655615247,1.833927218,,chaous,,,,,2
+6,11,3,0.552,0.461538462,1.621733498,1.669180337,,chaous,,,,,2
+7,5,3,0.408,0.384615385,1.503255408,1.546593564,,chaous,,,,,2
+8,12,3,0.4,0.307692308,1.467921486,1.352030102,,chaous,,,,,2
+9,9,3,0.32,0.230769231,1.323205166,1.145110414,,chaous,,,,,2
+10,7,3,0.176,0.153846154,0.772383768,0.773228349,,chaous,,,,,2
+11,1,1,0.152,0.076923077,0.614822757,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,6,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,44,,,,,,,,,,,,
+Rule:,2.14E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,1,0.992,0.923076923,1.616151758,1.88109476,,initial state evloves to a fixed uniform state,,,,,0
+1,6,2,0.84,0.846153846,2.063585344,2.045841641,,randomness at begning ends in repeating patter,,,,,0
+2,1,3,0.816,0.769230769,2.060198567,1.987773371,,chaous,,,,,2
+3,5,2,0.672,0.692307692,1.735726109,1.738149333,,randomness at begning ends in repeating patter,,,,,0
+4,4,2,0.552,0.615384615,1.739287354,1.76049503,,randomness at begning ends in repeating patter,,,,,0
+5,10,2,0.504,0.538461538,1.607779189,1.614330835,,randomness at begning ends in repeating patter,,,,,0
+6,2,2,0.456,0.461538462,1.373558973,1.295737801,,randomness at begning ends in repeating patter,,,,,0
+7,8,1,0.336,0.384615385,0.920939448,0.961236605,,initial state evloves to a fixed uniform state,,,,,0
+8,11,1,0.312,0.307692308,0.895468641,0.89049164,,initial state evloves to a fixed uniform state,,,,,0
+9,9,1,0.232,0.230769231,0.781481493,0.779349837,,initial state evloves to a fixed uniform state,,,,,0
+10,7,1,0.088,0.153846154,0.429758609,0.619382195,,initial state evloves to a fixed uniform state,,,,,0
+11,12,1,0.08,0.076923077,0.40217919,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,3,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,45,,,,,,,,,,,,
+Rule:,1.31E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.971301489,2.199687795,,chaous,,,,,2
+1,10,3,0.944,0.846153846,2.106077151,2.295465679,,chaous,,,,,2
+2,12,3,0.936,0.769230769,2.118239664,2.295465679,,chaous,,,,,2
+3,8,3,0.816,0.692307692,2.091735391,2.199687795,,chaous,,,,,2
+4,7,3,0.672,0.615384615,2.010588688,2.133937566,,chaous,,,,,2
+5,1,3,0.648,0.538461538,1.965237299,1.987773371,,chaous,,,,,2
+6,9,3,0.568,0.461538462,1.94737304,1.88109476,,chaous,,,,,2
+7,6,3,0.416,0.384615385,1.760155894,1.700439718,,chaous,,,,,2
+8,2,2,0.368,0.307692308,1.515102204,1.352030102,,randomness at begning ends in repeating patter,,,,,0
+9,3,2,0.288,0.230769231,1.154123681,0.991264261,,randomness at begning ends in repeating patter,,,,,0
+10,5,2,0.144,0.153846154,0.594619344,0.619382195,,randomness at begning ends in repeating patter,,,,,0
+11,11,2,0.12,0.076923077,0.529360865,0.391243564,,randomness at begning ends in repeating patter,,,,,0
+12,4,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,46,,,,,,,,,,,,
+Rule:,3.41E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,2.000716765,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+1,9,4,0.912,0.846153846,2.156231149,2.133937566,,edge of chaouts,,,,,1
+2,12,4,0.904,0.769230769,2.1698765,2.199687795,,edge of chaouts,,,,,1
+3,1,4,0.88,0.692307692,2.206224822,2.16197818,,edge of chaouts,,,,,1
+4,2,2,0.832,0.615384615,2.206224822,2.038159682,,randomness at begning ends in repeating patter,,,,,0
+5,6,3,0.68,0.538461538,2.182646155,1.891995487,,chaous,,,,,2
+6,11,3,0.656,0.461538462,2.177236373,1.823026491,,chaous,,,,,2
+7,8,3,0.536,0.384615385,1.794595138,1.488525295,,chaous,,,,,2
+8,4,1,0.416,0.307692308,1.366667649,1.140115679,,initial state evloves to a fixed uniform state,,,,,0
+9,3,1,0.336,0.230769231,1.251976102,0.991264261,,initial state evloves to a fixed uniform state,,,,,0
+10,10,1,0.288,0.153846154,1.154123681,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,7,1,0.144,0.076923077,0.594619344,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,5,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,47,,,,,,,,,,,,
+Rule:,4.21E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.82823185,2.10390991,,randomness at begning ends in repeating patter,,,,,0
+1,7,1,0.848,0.846153846,1.993640123,2.199687795,,initial state evloves to a fixed uniform state,,,,,0
+2,12,1,0.84,0.769230769,1.985336258,2.199687795,,initial state evloves to a fixed uniform state,,,,,0
+3,1,1,0.816,0.692307692,1.948665753,2.10390991,,initial state evloves to a fixed uniform state,,,,,0
+4,2,1,0.768,0.615384615,1.9459371,2.038159682,,initial state evloves to a fixed uniform state,,,,,0
+5,4,1,0.648,0.538461538,2.002736867,1.987773371,,initial state evloves to a fixed uniform state,,,,,0
+6,11,1,0.624,0.461538462,1.975106371,1.823026491,,initial state evloves to a fixed uniform state,,,,,0
+7,3,1,0.544,0.384615385,1.938748961,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,5,1,0.4,0.307692308,1.724148769,1.505876256,,initial state evloves to a fixed uniform state,,,,,0
+9,6,1,0.248,0.230769231,1.178074149,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,8,1,0.128,0.153846154,0.674095106,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,9,1,0.048,0.076923077,0.277839574,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,10,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,48,,,,,,,,,,,,
+Rule:,1.13E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,3,0.992,0.923076923,1.757201768,2.10390991,,chaous,,,,,2
+1,7,3,0.848,0.846153846,2.0615282,2.199687795,,chaous,,,,,2
+2,6,3,0.696,0.769230769,2.08426031,2.23739741,,chaous,,,,,2
+3,1,2,0.672,0.692307692,2.069096117,2.199687795,,randomness at begning ends in repeating patter,,,,,0
+4,9,2,0.592,0.615384615,2.019451642,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+5,12,2,0.584,0.538461538,2.009368897,2.045841641,,randomness at begning ends in repeating patter,,,,,0
+6,10,2,0.536,0.461538462,1.931731093,1.88109476,,randomness at begning ends in repeating patter,,,,,0
+7,3,2,0.456,0.384615385,1.798198856,1.700439718,,randomness at begning ends in repeating patter,,,,,0
+8,5,2,0.312,0.307692308,1.44474309,1.505876256,,randomness at begning ends in repeating patter,,,,,0
+9,11,2,0.288,0.230769231,1.293330139,1.145110414,,randomness at begning ends in repeating patter,,,,,0
+10,2,1,0.24,0.153846154,1.035040279,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,4,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,8,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Experiment #:,49,,,,,,,,,,,,
+Rule:,3.34E+11,,,,,,,,,,,,
+Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations,,,,,
+0,-,2,0.992,0.923076923,1.849457102,2.133937566,,randomness at begning ends in repeating patter,,,,,0
+1,12,2,0.984,0.846153846,1.891143975,2.257756064,,randomness at begning ends in repeating patter,,,,,0
+2,6,3,0.832,0.769230769,2.110763644,2.199687795,,chaous,,,,,2
+3,3,1,0.752,0.692307692,1.966838916,2.10390991,,initial state evloves to a fixed uniform state,,,,,0
+4,2,1,0.704,0.615384615,1.914320657,2.038159682,,initial state evloves to a fixed uniform state,,,,,0
+5,8,1,0.584,0.538461538,1.922001839,1.987773371,,initial state evloves to a fixed uniform state,,,,,0
+6,1,1,0.56,0.461538462,1.868677971,1.823026491,,initial state evloves to a fixed uniform state,,,,,0
+7,7,1,0.416,0.384615385,1.708754867,1.700439718,,initial state evloves to a fixed uniform state,,,,,0
+8,10,1,0.368,0.307692308,1.608705433,1.505876256,,initial state evloves to a fixed uniform state,,,,,0
+9,9,1,0.288,0.230769231,1.24772691,1.145110414,,initial state evloves to a fixed uniform state,,,,,0
+10,11,1,0.264,0.153846154,1.095146613,0.773228349,,initial state evloves to a fixed uniform state,,,,,0
+11,5,1,0.12,0.076923077,0.529360865,0.391243564,,initial state evloves to a fixed uniform state,,,,,0
+12,4,1,0,0,0,0,,initial state evloves to a fixed uniform state,,,,,0
